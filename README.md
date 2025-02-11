@@ -1,7 +1,7 @@
 💫 **About Me**
 
 🚗 Enthusiastic and deeply passionate about **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**.  
-🤝 Open to collaborating on cutting-edge **AI/ML projects**.  
+🤝 Open to collaborating on cutting-edge **Artificial Intelligence/Machine Learning projects**.  
 📖 Continuously improving my skills in **Autonomous Driving** and **Vehicle Safety** technologies.  
 
 ---
